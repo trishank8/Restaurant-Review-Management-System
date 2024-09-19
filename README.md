@@ -1,13 +1,3 @@
-<img src="https://www.colorado.edu/cs/profiles/express/themes/ucb/images/cu-boulder-logo-text-black.svg" alt="CU Boulder Logo" width="500">
-
-$\color{#FF0000}\textsf{\Large\&#x24D8;\kern{0.2cm}\normalsize ANY FORMS OF PLAGIARISM OR USE OF CHATGPT WILL RESULT IN A 0 AND BE REPORTED TO THE UNIVERSITY.
-}$
-
-$\color{#FF0000}\textsf{\Large\&#x24D8;\kern{0.2cm}\normalsize YOU ARE EXPECTED TO INTERVIEW GRADE AND ANSWER ANY AND ALL QUESTIONS ASKED OF YOU.
-}$
-
-$\color{#FF0000}\textsf{\Large\&#x24D8;\kern{0.2cm}\normalsize INABILITY TO ANSWER QUESTIONS MAY RESULT IN FURTHER STEPS TO VERIFY THAT YOU WROTE YOUR OWN CODE.
-}$
 
 # CSCI 2270: Data Structures Movie Review
 
